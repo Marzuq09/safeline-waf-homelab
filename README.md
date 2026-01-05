@@ -26,7 +26,6 @@ Kali Linux (Attacker) → SafeLine WAF (Port 443) → Ubuntu + DVWA (Port 8080)
 ```
 
 ## 📸 Screenshots
-*(Screenshots will be added below)*
 
 ### DVWA Login Page
 ![DVWA](images/dvwa-login.png)
