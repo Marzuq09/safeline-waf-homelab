@@ -54,11 +54,8 @@ Kali Linux (Attacker) → SafeLine WAF (Port 443) → Ubuntu + DVWA (Port 8080)
 7. Configured WAF rules (SQL injection, XSS, rate limiting)
 8. Tested attacks from Kali Linux
 
-## 🎥 Reference
-Based on tutorial by Royden Rebello (The Social Dork)
-[YouTube Guide](https://youtu.be/N0dEC1nuWCQ)
 
 ## 📧 Contact
 Marzuq Adepegba
-marzkayz@gmail.com
+a.marzuq@yahoo.com
 www.linkedin.com/in/adepegba-marzuq
